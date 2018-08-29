@@ -105,6 +105,7 @@
       <relatedItems xmi:id="_OQMJQatKEei8n4bX1RP3tA" id="MDM" version="Latest" type="routine"/>
       <relatedItems xmi:id="_OQMJQqtKEei8n4bX1RP3tA" id="TalendStringUtil" version="Latest" type="routine"/>
       <relatedItems xmi:id="_OQMJQ6tKEei8n4bX1RP3tA" id="_4W6lQKtIEei8n4bX1RP3tA - metadata" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_yBhvgKtTEeiRP5HivwEUEg" id="_ZTdTQKtTEeiRP5HivwEUEg" version="Latest" type="job"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_sJflIKtTEeiRP5HivwEUEg">
       <baseItem xmi:id="_sJflIatTEeiRP5HivwEUEg" id="_ZTdTQKtTEeiRP5HivwEUEg" version="0.1" type="job"/>
