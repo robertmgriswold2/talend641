@@ -230,7 +230,7 @@
   </node>
   <node componentName="tJava" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="192" posY="320">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tJava_1" show="false"/>
-    <elementParameter field="MEMO_JAVA" name="CODE" value="System.out.println((Integer)globalMap.get(&quot;tFileInputDelimited_1_NB_LINE&quot;));&#xA;System.out.println((Integer)globalMap.get(&quot;tFileOutputDelimited_1_NB_LINE&quot;));&#xA;System.out.println((Integer)globalMap.get(&quot;tFileOutputDelimited_2_NB_LINE&quot;));"/>
+    <elementParameter field="MEMO_JAVA" name="CODE" value="System.out.println((Integer)globalMap.get(&quot;tFileInputDelimited_1_NB_LINE&quot;));&#xA;System.out.println((Integer)globalMap.get(&quot;tFileOutputDelimited_1_NB_LINE&quot;));&#xA;System.out.println((Integer)globalMap.get(&quot;tFileOutputDelimited_2_NB_LINE&quot;));&#xA;context.souceCount = (Integer)globalMap.get(&quot;tFileInputDelimited_1_NB_LINE&quot;);&#xA;context.Counttarget = (Integer)globalMap.get(&quot;tFileOutputDelimited_1_NB_LINE&quot;);"/>
     <elementParameter field="MEMO_IMPORT" name="IMPORT" value="//import java.util.List;"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tJava_1"/>
